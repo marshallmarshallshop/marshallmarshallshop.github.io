@@ -1,0 +1,485 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #EBC6D7;
+	text-align: left;
+	margin: 0em;
+	padding: 0em;
+	background-color: #19171C;
+	}
+
+#wrapper {
+	font-size: 100%;
+	width: 64em;
+	margin: auto;
+	padding: 0em 0em 0em 0em;
+	text-align:left;
+	position:relative;
+	}
+	
+#leftholder {
+	font-size: 100%;
+	width: 5em;
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	float: left;
+	}
+	
+#leftholder img {
+	width: 5em;
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	}
+	
+#mainholder {
+	font-size: 100%;
+	width: 54em;
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	float: left;
+	}
+	
+#rightholder {
+	font-size: 100%;
+	width: 5em;
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	float: left;
+	}
+	
+#rightholder img {
+	width: 5em;
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	}
+	
+#topcontainer {
+	width: 54em;
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	float: left;
+	text-align: center;
+	}
+	
+#logo {
+	width: 54em;
+	margin: 0em;
+	padding: 1em 0em 0em 0em;
+	float: left;
+	}
+	
+#logo img {
+	width: 30em;
+	margin: 0em;
+	padding: 0em 12em 0em 12em;
+	float: left;
+	}
+	
+#linkscontainer {
+	width: 45em;
+	margin: 0em;
+	padding: 0em 0em 0em 7.5em;
+	float: left;
+	}
+	
+div#menulinks {
+	margin: 0em;
+	padding: 0em;
+	float: left;
+	}
+	
+div#menulinks a {
+	padding: 4em 0em 0em 0em;
+	display: block;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	height: 0px !important;
+	height /**/:4em;
+	}
+
+div#menulinks a:hover {
+	padding: 4em 0em 0em 0em;
+	display: block;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	height: 0px !important;
+	height /**/:4em;
+	}
+
+div#menulinks span {
+	display: none;
+	}
+	
+div#menulinks ol {
+	padding: 0em;
+	margin: 0em;
+	float: left;
+	width: 43em;
+	}
+	
+div#menulinks li {
+	font-size: 100%;
+	padding: 0em;
+	margin: 0em;
+	display: inline;
+	}
+
+li#nav-one {
+	padding: 0em;
+	margin: 0em;
+	display: inline;
+	}
+	
+li#nav-one a {	
+	background-image: url(images/link_home.jpg);
+	width: 4.5em;
+	float: left;
+	}
+	
+li#nav-one a:hover{
+	background-image: url(images/link_home.jpg);
+	width: 4.5em;
+	float: left;
+	}
+	
+li#nav-two {
+	padding: 0em;
+	margin: 0em;
+	display: inline;
+	}
+	
+li#nav-two a {	
+	background-image: url(images/link_products.jpg);
+	width: 9em;
+	float: left;
+	}
+	
+li#nav-two a:hover{
+	background-image: url(images/link_products.jpg);
+	width: 9em;
+	float: left;
+	}
+	
+li#nav-three {
+	padding: 0em;
+	margin: 0em;
+	display: inline;
+	}
+	
+li#nav-three a {	
+	background-image: url(images/link_shops.jpg);
+	width: 7.5em;
+	float: left;
+	}
+	
+li#nav-three a:hover{
+	background-image: url(images/link_shops.jpg);
+	width: 7.5em;
+	float: left;
+	}
+	
+li#nav-four {
+	padding: 0em;
+	margin: 0em;
+	display: inline;
+	}
+	
+li#nav-four a {	
+	background-image: url(images/link_onlineshop.jpg);
+	width: 9em;
+	float: left;
+	}
+	
+li#nav-four a:hover{
+	background-image: url(images/link_onlineshop.jpg);
+	width: 9em;
+	float: left;
+	}
+	
+li#nav-five {
+	padding: 0em;
+	margin: 0em;
+	display: inline;
+	}
+	
+li#nav-five a {	
+	background-image: url(images/link_contact.jpg);
+	width: 10em;
+	float: left;
+	}
+	
+li#nav-five a:hover{
+	background-image: url(images/link_contact.jpg);
+	width: 10em;
+	float: left;
+	}
+	
+	
+
+	
+#midcontainer {
+	width: 54em;
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	float: left;
+	}
+	
+#mainimages {
+	width: 54em;
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	float: left;
+	}
+	
+#mainimages img {
+	width: 40em;
+	margin: 0em;
+	padding: 0em 0em 0em 7em;
+	float: left;
+	}
+
+#midholder {
+	width: 40em;
+	margin: 0em;
+	padding: 0em 0em 0em 7em;
+	float: left;
+	}
+	
+#midholder img {
+	width: 11em;
+	margin: 0em;
+	padding: 0em 1.5em 2em 0em;
+	float: left;
+	}
+	
+#midholder img.square {
+	width: 16.5em;
+	margin: 0em;
+	padding: 0em 1.5em 2em 0em;
+	float: left;
+	}
+	
+#midholder img.lscape {
+	width: 25.3em;
+	margin: 0em;
+	padding: 0em 1.5em 2em 0em;
+	float: left;
+	}
+	
+#midcontact {
+	width: 40em;
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	float: left;
+	}
+	
+#midcontactcolumn {
+	width: 20em;
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	float: left;
+	}
+	
+#midholder img.ctc {
+	width: 16.5em;
+	margin: 0em;
+	padding: 3em 0em 2em 3em;
+	}	
+	
+#midcontainer h1 {
+	background-repeat: no-repeat;
+	background-position: bottom left;
+	margin: 0em 0em 0.1em 0em;
+	padding: 1.2em 0em 0em 0em;
+	height: 1em;
+	}
+	
+#midcontainer h1.fab {
+	background-image: url(images/homehead_fabulous.jpg);
+	}
+	
+#midcontainer h1.smile {
+	background-image: url(images/homehead_smile.jpg);
+	}
+	
+#midcontainer h1.easy {
+	background-image: url(images/homehead_easy.jpg);
+	}
+	
+#midcontainer h1.selected {
+	background-image: url(images/homehead_selected.jpg);
+	}
+	
+#midcontainer h1.visited {
+	background-image: url(images/homehead_visited.jpg);
+	}
+	
+#midcontainer h1.clothing {
+	background-image: url(images/prodhead_clothing.jpg);
+	}
+	
+#midcontainer h1.jewellery {
+	background-image: url(images/prodhead_jewellery.jpg);
+	}
+	
+#midcontainer h1.ind {
+	background-image: url(images/prodhead_ind.jpg);
+	}
+	
+#midcontainer h1.stunning {
+	background-image: url(images/prodhead_stunning.jpg);
+	}
+	
+#midcontainer h1.heyland {
+	background-image: url(images/prodhead_heyland.jpg);
+	}
+	
+#midcontainer h1.acc {
+	background-image: url(images/prodhead_acc.jpg);
+	}
+	
+#midcontainer h1.giftware {
+	background-image: url(images/prodhead_giftware.jpg);
+	}
+	
+#midcontainer h1.vouchers {
+	background-image: url(images/prodhead_vouchers.jpg);
+	}
+	
+#midcontainer h1.seeus {
+	background-image: url(images/prodhead_seeus.jpg);
+	}
+	
+#midcontainer h1.brighouse {
+	background-image: url(images/shophead_brighouse.jpg);
+	}
+	
+#midcontainer h1.begin {
+	background-image: url(images/shophead_begin.jpg);
+	}
+	
+#midcontainer h1.directions {
+	background-image: url(images/shophead_directions.jpg);
+	}
+	
+#midcontainer h1.parking {
+	background-image: url(images/shophead_parking.jpg);
+	}
+	
+#midcontainer h1.opening {
+	background-image: url(images/shophead_opening.jpg);
+	}
+	
+#midcontainer h1.contact {
+	background-image: url(images/shophead_contact.jpg);
+	}
+	
+#midcontainer h1.shopseeus {
+	background-image: url(images/shophead_seeus.jpg);
+	position: relative;
+	top: -1em;
+	}
+	
+#midcontainer h1.testims {
+	background-image: url(images/contacthead_testims.jpg);
+	}
+	
+#midcontainer h1.skipton {
+	background-image: url(images/shophead_skipton.jpg);
+	padding: 2em 0em 0em 0em;
+	}
+	
+#midcontainer h1.cookies {
+	background-image: url(images/cookieshead.jpg);
+	}
+	
+#midcontainer h1 span {
+	display: none;
+	}
+	
+#midcontainer p {
+	margin: 0em;
+	padding: 0em 0em 1em 0em;
+	line-height: 1.3em;
+	}
+	
+#midcontainer p.top {
+	margin: 0em;
+	padding: 1.5em 0em 1em 0em;
+	line-height: 1.3em;
+	}
+	
+#midcontainer p.testi {
+	margin: 0em;
+	padding: 0em 0em 2em 0em;
+	line-height: 1.3em;
+	color: #ffffff;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 0.9em;
+	}
+	
+#midcontainer p.testi span {
+	font-weight: normal;
+	}
+	
+#midcontainer a:link {color: #EDE9BA; font-weight: bold; text-decoration: none;}
+#midcontainer a:visited {color: #EDE9BA; font-weight: bold; text-decoration: none;}
+#midcontainer a:hover {color: #EBC6D7; font-weight: bold; text-decoration: none;}
+#midcontainer a:active {color: #EDE9BA; font-weight: bold; text-decoration: none;}
+	
+
+#frmhdr {
+	width: 19em;
+	border: solid 0.1em #EDE9BA;
+	margin: 0em;
+	padding: 0em 0em 1.5em 1em;
+	float: left;
+	}
+
+#frmhdr h2 {
+	margin: 0em;
+	padding: 1em 0em 1em 0.8em;
+	font-size: 1.2em;
+	}
+
+.ffieldct {
+	width: 16em;
+	margin: 0em;
+	padding: 0.8em 1em 0em 1em;
+	float: left;
+	}
+	
+.ffield {
+	width: 16em;
+	margin: 0em;
+	padding: 1em 1em 0em 1em;
+	float: left;
+	}
+
+#midtestims {
+	width: 19.5em;
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	float: left;
+	position: relative;
+	left: 3em;
+	top: 0.5em;
+	}
+	
+#btmcontainer {
+	width: 54em;
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	float: left;
+	}
+	
+.clearfloat { 
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+	}
+	

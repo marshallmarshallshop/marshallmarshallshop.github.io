@@ -1,0 +1,37 @@
+
+@charset "utf-8";
+
+/* CSS Document */
+
+.acceptCookiesContainer {
+	width:960px;
+	background:#ECE8B8;
+	border:#ECE8B8 1px solid;
+	border-top:#ECE8B8 0px solid;
+	margin:0 auto;
+	margin-bottom:10px;
+	font-weight:bold;
+	padding:10px;
+	font-size:12px;
+	color:#000;
+	text-align:left;
+}
+
+.acceptCookiesContainer span {
+	float:right;
+	display:block;
+	margin-top:-7px;
+}
+
+.acceptCookiesContainer a {
+	text-decoration:none;
+	color:#594C53;
+}
+
+.acceptCookiesContainer a:hover {
+	text-decoration:underline;
+}
+
+
+
+
